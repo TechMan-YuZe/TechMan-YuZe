@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 [![Bilibili](https://img.shields.io/badge/TechMan--YuZe-4caf50?style=flat-square&logo=Bilibili&logoColor=ffffff)](https://space.bilibili.com/333413548)
 
-### 电子邮箱 / E-Mail
+### 电子邮箱 / E-mail
 
 [![](https://img.shields.io/badge/931624690-%40qq.com-royalblue?style=flat-square)](mailto:931624690@qq.com)
 [![](https://img.shields.io/badge/cwjyz1314-%40gmail.com-indianred?style=flat-square)](mailto:cwjyz1314@gmail.com)
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 [![iPad Air 5 Apple Silicon](https://img.shields.io/badge/iPad%20Air%205-000000?style=flat-square&logo=apple&logoColor=ffffff)](#)
 [![小米 11 Pro](https://img.shields.io/badge/小米%2011%20Pro-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](#)
 [![Redmi K40S](https://img.shields.io/badge/Redmi%20K40S%20-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](#)
-[![小新 13 Rro](https://img.shields.io/badge/小新%2013%20Pro-007DB8?style=flat-square&logo=Lenovo&logoColor=ffffff)](#)
+[![小新 13 Rro](https://img.shields.io/badge/小新%2013%20Rro-007DB8?style=flat-square&logo=Lenovo&logoColor=ffffff)](#)
 
 ### System Environment
 
