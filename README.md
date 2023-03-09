@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 [![](https://img.shields.io/badge/931624690-%40qq.com-royalblue?style=flat-square)](mailto:931624690@qq.com)
 [![](https://img.shields.io/badge/cwjyz1314-%40gmail.com-indianred?style=flat-square)](mailto:cwjyz1314@gmail.com)
-[![](https://img.shields.io/badge/techman_yuze-%40163.com-forestgreen?style=flat-square)](mailto:techman_yuze@163.com) 
+[![](https://img.shields.io/badge/techman_yuze-%40nuaa.edu.cn-forestgreen?style=flat-square)](mailto:techman_yuze@nuaa.edu.cn) 
 
 ### Devices in use
 
