@@ -40,6 +40,6 @@ Here are some ideas to get you started:
 
 ### System Environment
 
-![iPadOS 16](https://img.shields.io/badge/iPadOS%2016-000000?style=flat-square&logo=ios&logoColor=ffffff)
+![iPadOS 16](https://img.shields.io/badge/iPadOS%2016-000000?style=flat-square&logo=apple&logoColor=ffffff)
 ![Android 12](https://img.shields.io/badge/Android%2012-3ddc84?style=flat-square&logo=android&logoColor=ffffff)
 ![Windows 11](https://img.shields.io/badge/Windows%2011-00adef?style=flat-square&logo=windows&logoColor=ffffff)
