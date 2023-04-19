@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 [![iPad Air 5 Apple Silicon](https://img.shields.io/badge/iPad%20Air%205-000000?style=flat-square&logo=apple&logoColor=ffffff)](#)
 [![小米 11 Pro](https://img.shields.io/badge/小米%2011%20Pro-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](#)
 [![Redmi K40S](https://img.shields.io/badge/Redmi%20K40S%20-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](#)
-[![小新 13 Rro](https://img.shields.io/badge/小新%2013%20Pro-007DB8?style=flat-square&logo=Lenovo&logoColor=ffffff)](#)
+[![小新 13 Rro](https://img.shields.io/badge/小新%20Pro%2013-007DB8?style=flat-square&logo=Lenovo&logoColor=ffffff)](#)
 
 ### System Environment
 
